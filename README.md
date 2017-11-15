@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Vizualiaciones Clase de Hipertexto y Lenguaje Digital 
 
 You can use the [editor on GitHub](https://github.com/diruji87/Mi-reportaje/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
