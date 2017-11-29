@@ -17,10 +17,5 @@ Ejercicio de linea de tiempo
 #Mapa
 
 <iframe id="datawrapper-chart-r6waX" src="//datawrapper.dwcdn.net/r6waX/1/" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen" webkitallowfullscreen="webkitallowfullscreen" mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen" msallowfullscreen="msallowfullscreen" style="width: 0; min-width: 100% !important;" height="400"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["r6waX"]={},window.datawrapper["r6waX"].embedDeltas={"100":525,"200":475,"300":425,"400":400,"500":400,"600":400,"700":375,"800":375,"900":375,"1000":375},window.datawrapper["r6waX"].iframe=document.getElementById("datawrapper-chart-r6waX"),window.datawrapper["r6waX"].iframe.style.height=window.datawrapper["r6waX"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["r6waX"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("r6waX"==b)window.datawrapper["r6waX"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
-
-Gastos	Total	Publicidad y propaganda	Administración	Transporte	Capacitación e investigación	Otros gastos	Costos financieros
-Clara López 	271162320	180728754	86356359	3577750	0	0	499457
-Enrique Peñalosa	1361362884	787687895	386896676	85370313	49648000	51760000	0
-Juan Manuel Santos	1672216021	571731662	739747173	359793786	0	0	943400
-Martha L. Ramirez	2348426258	1832802989	397708454	108480242	0	7103670	2330903.16
-Oscar I. Zuluaga	2079800032	1664147689	191059820	141011135	83050000	0	531388
+#Casos de campañas electorales
+<script id="infogram_0_77f384c2-b7f3-4a6c-b1ff-393fa0cb2203" title="Datos" src="https://e.infogram.com/js/dist/embed.js?pqO" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/77f384c2-b7f3-4a6c-b1ff-393fa0cb2203" style="color:#989898!important;text-decoration:none!important;" target="_blank">Datos</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
