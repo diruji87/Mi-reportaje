@@ -1,6 +1,6 @@
 ## Vizualiaciones Clase de Hipertexto y Lenguaje Digital 
 
-Clase de hipertexto 
+Clase de hipertexto es un sistema de organización y presentación de datos que se basa en la vinculación de fragmentos textuales o gráficos a otros fragmentos, lo cual permite al usuario acceder a la información no necesariamente de forma secuencial sino desde cualquiera de los distintos ítems relacionados.
 
 # Universidad Jorge Tadeo Lozano eader 1
 ### DATOS
