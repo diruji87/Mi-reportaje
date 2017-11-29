@@ -23,3 +23,7 @@ Ejercicio de linea de tiempo
 #Gráfico
 
 <iframe width="600" height="600" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7detM5mkwmp2-FeDBhsiRxb3VPStz4mMPCvJuUjvsazDEEjjdMvCejYFcv5UMLp_baEuZqje08rAo/pubchart?oid=2083473515&amp;format=interactive"></iframe>
+
+#Comparación 
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1225_RC03/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"humberto de la calle","geo":"","time":"today 12-m"},{"keyword":"gustavo petro","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=humberto%20de%20la%20calle,gustavo%20petro&date=today 12-m,today 12-m","guestPath":"https://trends.google.es:443/trends/embed/"}); </script> 
