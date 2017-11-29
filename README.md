@@ -34,3 +34,4 @@ Ejercicio de linea de tiempo
 
  # Mapa
  <iframe width="100%" height="520" frameborder="0" src="https://dianar.carto.com/builder/987a67cd-1b57-488a-9224-fc29bacd4f3b/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
