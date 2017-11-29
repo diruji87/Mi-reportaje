@@ -22,4 +22,4 @@ Ejercicio de linea de tiempo
 
 #Gráfico
 
-<iframe width="1024.5283018867924" height="633.5" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7detM5mkwmp2-FeDBhsiRxb3VPStz4mMPCvJuUjvsazDEEjjdMvCejYFcv5UMLp_baEuZqje08rAo/pubchart?oid=2083473515&amp;format=interactive"></iframe>
+<iframe width="600" height="600" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS7detM5mkwmp2-FeDBhsiRxb3VPStz4mMPCvJuUjvsazDEEjjdMvCejYFcv5UMLp_baEuZqje08rAo/pubchart?oid=2083473515&amp;format=interactive"></iframe>
